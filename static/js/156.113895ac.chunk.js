@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktweets_app=self.webpackChunktweets_app||[]).push([[156],{513:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var r=n(87),s=n.p+"static/media/404-error-page-not-found.154fb7ecfda2cb1ab6ec.jpg",c=n(184),i=function(){return(0,c.jsxs)("div",{children:[(0,c.jsx)("img",{src:s,style:{width:"700px"}}),(0,c.jsx)("p",{style:{textAlign:"center"},children:(0,c.jsx)(r.rU,{to:"/",children:"Go to Home "})})]})}}}]);
+//# sourceMappingURL=156.113895ac.chunk.js.map

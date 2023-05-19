@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tweets-app/static/css/main.eb64d840.css",
+    "main.js": "/tweets-app/static/js/main.1a6adb15.js",
+    "static/js/11.8248fa2c.chunk.js": "/tweets-app/static/js/11.8248fa2c.chunk.js",
+    "static/js/198.81306320.chunk.js": "/tweets-app/static/js/198.81306320.chunk.js",
+    "static/js/156.113895ac.chunk.js": "/tweets-app/static/js/156.113895ac.chunk.js",
+    "static/js/384.8ad242d4.chunk.js": "/tweets-app/static/js/384.8ad242d4.chunk.js",
+    "static/media/Montserrat-SemiBold.ttf": "/tweets-app/static/media/Montserrat-SemiBold.62b8eee010e3957d425f.ttf",
+    "static/media/Montserrat-Medium.ttf": "/tweets-app/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
+    "static/media/404-error-page-not-found.jpg": "/tweets-app/static/media/404-error-page-not-found.154fb7ecfda2cb1ab6ec.jpg",
+    "static/media/cardUpperPicture.png": "/tweets-app/static/media/cardUpperPicture.b186e544641a66e17d83.png",
+    "index.html": "/tweets-app/index.html",
+    "main.eb64d840.css.map": "/tweets-app/static/css/main.eb64d840.css.map",
+    "main.1a6adb15.js.map": "/tweets-app/static/js/main.1a6adb15.js.map",
+    "11.8248fa2c.chunk.js.map": "/tweets-app/static/js/11.8248fa2c.chunk.js.map",
+    "198.81306320.chunk.js.map": "/tweets-app/static/js/198.81306320.chunk.js.map",
+    "156.113895ac.chunk.js.map": "/tweets-app/static/js/156.113895ac.chunk.js.map",
+    "384.8ad242d4.chunk.js.map": "/tweets-app/static/js/384.8ad242d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb64d840.css",
+    "static/js/main.1a6adb15.js"
+  ]
+}

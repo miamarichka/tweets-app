@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktweets_app=self.webpackChunktweets_app||[]).push([[11],{11:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var c,r=t(168),u=t(894).zo.h1(c||(c=(0,r.Z)(["\n  color: black;\n  text-align: center;\n"]))),a=t(184),l=function(){return(0,a.jsx)("div",{children:(0,a.jsx)(u,{children:"Welcome to Home Page"})})}}}]);
+//# sourceMappingURL=11.8248fa2c.chunk.js.map
