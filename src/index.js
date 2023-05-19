@@ -8,7 +8,7 @@ const rootElement = document.getElementById("root");
 
 createRoot(rootElement).render(
   <React.StrictMode>
-    <BrowserRouter basename="/tweets-app">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </React.StrictMode>
