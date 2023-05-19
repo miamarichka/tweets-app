@@ -1,16 +1,16 @@
-/** @format */
-
 import React from "react";
-import ReactDOM from "react-dom";
 import { BrowserRouter } from "react-router-dom";
+import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
 
-ReactDOM.render(
+const rootElement = document.getElementById("root");
+
+createRoot(rootElement).render(
   <React.StrictMode>
-    <BrowserRouter basename="/tweets-app">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
-  </React.StrictMode>,
-  document.getElementById("root")
+  </React.StrictMode>
 );
+
